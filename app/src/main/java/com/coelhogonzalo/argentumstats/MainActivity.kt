@@ -7,6 +7,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //TESTING COMMIT AND PUSH WITH DIFFERENT CREDENTIAL
+        //TESTING COMMIT AND PUSH WITH DIFFERENT CREDENTIA
     }
 }
