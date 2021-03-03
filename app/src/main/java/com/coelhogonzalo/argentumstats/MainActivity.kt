@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //TESTING COMMIT AND PUSH WITH DIFFERENT CREDENTIAL
         //TEST 1
+        //TEST 2
     }
 }
